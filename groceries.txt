@@ -1,0 +1,5 @@
+Massimo Bread	23 units	With Wheat Germ	22-11-2022	RM 3.00	
+Maggi Noodle	65 units	Curry	25-5-2023	RM 4.75	
+Mi Sedap Noodle	15 units	Original	28-4-2023	RM 6.20	
+Jacobs Cream Cracker	50 units	Original	30-11-2023	RM 13.50	
+Lays Potato Chips	32 units	Sizzling BBQ	20-7-2023	RM 14.45	

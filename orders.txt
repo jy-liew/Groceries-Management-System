@@ -1,0 +1,5 @@
+Brian	Maggi Noodle	2 units	RM 9.5
+Brian	Massimo Bread	3 units	RM 9.0
+Owen	Mi Sedap Noodle	1 units	RM 6.2
+Owen	Jacobs Cream Cracker	4 units	RM 54.0
+Marco	Lays Potato Chips	3 units	RM 43.35
